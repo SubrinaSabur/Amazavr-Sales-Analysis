@@ -1,2 +1,3 @@
 # Amazavr-Sales-Analysis
-Objective: Identify key products and revenue drivers to generate actionable insights for strategic business decisions. Tools Used: Python, SQL, Power BI, Tableau, Seaborn, Matplotlib.  
+Identify key products and revenue drivers to support strategic business decisions.
+The Amazavr Sales Analysis project aimed to uncover actionable insights from e-commerce sales data. By analyzing product performance, customer behavior, and revenue patterns, the goal was to support data-driven decision-making in sales and marketing strategies.
