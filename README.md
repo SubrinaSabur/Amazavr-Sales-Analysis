@@ -64,19 +64,19 @@ The Amazavr Sales Analysis project analyzes sales, revenue, product categories, 
 ## 📄 Findings & Deliverables  
 
 - 📘 **Sales Report**  
-  [Access Report PDF](https://drive.google.com/drive/folders/1lJnSloPXqWQhF5pFviFiziHIioUhUfRZ)
+  [Access Report PDF](https://drive.google.com/file/d/1ZAPbAPYMBHyngDPSjQ9MBrVS1m_xYi_A/view?usp=sharing)
 
 - 📽️ **PowerPoint Presentation**  
-  [View Presentation](https://docs.google.com/presentation/d/1X_6zaOsJ36e0K3dkkPyRzOjxvUGxq4Yj/edit?slide=id.p1#slide=id.p1)
+  [View Presentation](https://docs.google.com/presentation/d/1X_6zaOsJ36e0K3dkkPyRzOjxvUGxq4Yj/edit?slide=id.p1#slide=id.p1) 
 
 - 📈 **Interactive Tableau Dashboard**  
-  [Explore Dashboard](https://drive.google.com/drive/folders/1lJnSloPXqWQhF5pFviFiziHIioUhUfRZ)
+  [Explore Dashboard](https://drive.google.com/file/d/1LztiJ2oNDjkXYkcnB4XKlj3gbXKYksF7/view?usp=sharing )
 
 - 🗂️ **Full Project Folder**  
-  [View Complete Project](https://drive.google.com/drive/folders/1lJnSloPXqWQhF5pFviFiziHIioUhUfRZ)
+  [View Complete Project] (https://drive.google.com/drive/folders/1lJnSloPXqWQhF5pFviFiziHIioUhUfRZ)
 
 - 📓 **Colab Notebook**  
-  [View Colab Notebook](https://colab.research.google.com/drive/1j8oD7lY8P0Xv6nYeN1wv0dWRR31gY3Ja)
+  [View Colab Notebook]( https://colab.research.google.com/drive/1-MZE-Z5Q0Bf9m631mPSXDlpldT6feCVA?usp=sharing)
 
 ---
 
